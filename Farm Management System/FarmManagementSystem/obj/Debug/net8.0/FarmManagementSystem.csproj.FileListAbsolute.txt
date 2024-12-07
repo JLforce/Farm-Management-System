@@ -1,0 +1,17 @@
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\obj\Debug\net8.0\FarmManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\obj\Debug\net8.0\FarmManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\obj\Debug\net8.0\FarmManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\obj\Debug\net8.0\FarmManagementSystem.AssemblyInfo.cs
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\obj\Debug\net8.0\FarmManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\bin\Debug\net8.0\FarmManagementSystem.exe
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\bin\Debug\net8.0\FarmManagementSystem.deps.json
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\bin\Debug\net8.0\FarmManagementSystem.runtimeconfig.json
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\bin\Debug\net8.0\FarmManagementSystem.dll
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\bin\Debug\net8.0\FarmManagementSystem.pdb
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\obj\Debug\net8.0\FarmMana.818FA148.Up2Date
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\obj\Debug\net8.0\FarmManagementSystem.dll
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\obj\Debug\net8.0\refint\FarmManagementSystem.dll
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\obj\Debug\net8.0\FarmManagementSystem.pdb
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\obj\Debug\net8.0\FarmManagementSystem.genruntimeconfig.cache
+C:\Users\Jafit Love R. Ybanez\Documents\Farm Management System\FarmManagementSystem\obj\Debug\net8.0\ref\FarmManagementSystem.dll
